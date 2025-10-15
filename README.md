@@ -6,7 +6,7 @@ O código-fonte principal permanece privado.
 ## Como baixar
 
 Clique no botão **Download** do release mais recente:  
-[Download Latest Release](https://github.com/adminsaibweb/installer-cme-pesagem-app/releases/download/latest/SaibWeb.-.CME.Pesagem.Setup.1.0.6.exe)
+[Download Latest Release](https://github.com/adminsaibweb/installer-cme-pesagem-app/releases/download/latest/SaibWeb-CME-Pesagem-Setup-latest.exe)
 
 ## CHANGELOG
 
